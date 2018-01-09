@@ -1,2 +1,2 @@
-this is a good system.
-and it is free.
+Git is a distributed version control system.
+Git is free software.
